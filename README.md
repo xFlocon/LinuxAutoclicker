@@ -11,7 +11,9 @@ Autoclicker para Linux e Windows com perfis independentes para os botões esquer
 | Plataforma | Versão | Requisito | Download |
 | --- | --- | --- | --- |
 | Linux x86_64 | 1.0.0 | Debian, distribuições derivadas ou Arch Linux | [AppImage](https://github.com/xFlocon/LinuxAutoclicker/releases/download/v1.0.0/LinuxAutoClicker-x86_64.AppImage) |
-| Windows x64 | 1.0.0 | Windows de 64 bits | [EXE](https://github.com/xFlocon/LinuxAutoclicker/releases/download/v1.0.0/LinuxAutoClicker.exe) |
+| Windows x64 | 1.0.0 (sem assinatura digital) | Windows de 64 bits | [EXE](https://github.com/xFlocon/LinuxAutoclicker/releases/download/v1.0.0/LinuxAutoClicker.exe) |
+
+> **Aviso para Windows:** o arquivo `.exe` não possui assinatura digital. Por isso, o Windows e o Microsoft Defender SmartScreen podem exibir um alerta antes da execução, mesmo que o arquivo tenha sido baixado pela release oficial.
 
 ## Recursos
 
