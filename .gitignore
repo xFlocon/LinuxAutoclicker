@@ -1,0 +1,4 @@
+# Executáveis são publicados como arquivos das releases.
+*.AppImage
+*.appimage
+*.exe
